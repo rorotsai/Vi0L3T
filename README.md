@@ -1,2 +1,16 @@
-# Vi0L3T
-About me
+# 自我介紹
+圖
+## 學校背景
+中原大學
+電機工程學系
+智慧控制組
+
+## 特殊經歷
+中原大學電機工程系預研生
+錄取英業達優秀人才獎學金計畫
+
+## 專長、實際操作之技能
+C、C++、Verilog、JavaScript、JSON、HTML
+Tina、Pspice、MatLab(Octave)、GNU Radio、Altium Designer
+
+# 專題介紹
