@@ -1,6 +1,8 @@
 <html>
 <head>
 <style>
+```html
+// code for coloring
 #mybackground {
   color: blue;
 }
@@ -33,3 +35,4 @@
 C、C++、Verilog、JavaScript、JSON、HTML<br>
 Tina、Pspice、MatLab(Octave)、GNU Radio、Altium Designer
 </div>
+```
